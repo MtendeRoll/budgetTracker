@@ -38,7 +38,7 @@ GIVEN a budget tracker without an internet connection
 
 ## Links
 
-- [Github Repository](https://github.com/MtendeRoll/social-networkAPI)
+- [Github Repository](https://github.com/MtendeRoll/budgetTracker)
 - [Deployed Application](https://budget-tracker-roll.herokuapp.com/)
 
 ## Tools Used
